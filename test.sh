@@ -1,3 +1,3 @@
-npm install
+/usr/local/bin/npm install
 
-node script.js
+/usr/local/bin/node script.js
